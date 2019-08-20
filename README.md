@@ -49,6 +49,6 @@ Our reference implementation of the blockchain service is based on bitcored. Her
    ```bash
     cd $(BITCORE_DIR)
     bitcored
-   ```
+   ``` 
 
 - Verify that the bitcored installation was successful by pointing the browser to: `http://$(NODE_IP):3001/insight/`
